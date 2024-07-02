@@ -12,7 +12,12 @@ const Footer = () => {
                   <img src="img/shibpepe.png" alt="" height="100" width="100" />
                 </div>
                 <h3 className="fn_title">Buy SHIBPEPE now!</h3>
-                <p className="fn_desc">CA:</p>
+                <a
+                  href="https://dexscreener.com/solana/dbxq4z2jdgrardtauwazwnwgkz3nbgi765afvyegway5"
+                  className="fn_desc"
+                >
+                  CA:dbxq4z2jdgrardtauwazwnwgkz3nbgi765afvyegway5
+                </a>
               </div>
             </div>
           </div>
